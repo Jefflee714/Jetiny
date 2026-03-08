@@ -1,0 +1,17 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# XcodeGen can regenerate this
+# Jetiny.xcodeproj/
+
+# Temp
+*.tmp

@@ -1,0 +1,1856 @@
+{
+  "sourceLanguage" : "zh-Hant",
+  "strings" : {
+    "%lld 個影片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld video(s)"
+          }
+        }
+      }
+    },
+    "%lld 個目標檔名在磁碟上已存在，無法開始" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld target filename(s) already exist on disk. Cannot proceed."
+          }
+        }
+      }
+    },
+    "%lld 個檔案名稱含有非法字元（/ 或 :），無法開始" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld filename(s) contain illegal characters (/ or :). Cannot proceed."
+          }
+        }
+      }
+    },
+    "%lld 個檔案名稱超過 255 bytes 上限" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld filename(s) exceed the 255-byte limit"
+          }
+        }
+      }
+    },
+    "%lld 個檔案有名稱衝突，無法開始" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld file(s) have name conflicts. Cannot proceed."
+          }
+        }
+      }
+    },
+    "%lld 個檔案重新命名後名稱為空" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld file(s) would have empty names after renaming"
+          }
+        }
+      }
+    },
+    "%lld 失敗" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld failed"
+          }
+        }
+      }
+    },
+    "%lld 成功" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld succeeded"
+          }
+        }
+      }
+    },
+    "%lld 張圖片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld image(s)"
+          }
+        }
+      }
+    },
+    "%lld 跳過" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld skipped"
+          }
+        }
+      }
+    },
+    "%lld 秒" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld sec"
+          }
+        }
+      }
+    },
+    "... 還有 %lld 個" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "... and %lld more"
+          }
+        }
+      }
+    },
+    "1 (1, 2, 3)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 (1, 2, 3)"
+          }
+        }
+      }
+    },
+    "2 (01, 02)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 (01, 02)"
+          }
+        }
+      }
+    },
+    "3 (001, 002)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 (001, 002)"
+          }
+        }
+      }
+    },
+    "4 (0001, 0002)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4 (0001, 0002)"
+          }
+        }
+      }
+    },
+    "EXIF" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EXIF"
+          }
+        }
+      }
+    },
+    "Jetalk 官網" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetalk Website"
+          }
+        }
+      }
+    },
+    "Jetalk 設計開發" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Designed by Jetalk"
+          }
+        }
+      }
+    },
+    "Jetiny 快捷鍵" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetiny Shortcuts"
+          }
+        }
+      }
+    },
+    "JPEG 不支援透明背景，透明區域會變成白色" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JPEG does not support transparency. Transparent areas will become white."
+          }
+        }
+      }
+    },
+    "(增大 %@%)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Increased %@%%)"
+          }
+        }
+      }
+    },
+    "(節省 %@%)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Saved %@%%)"
+          }
+        }
+      }
+    },
+    "一般設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "不限制" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Limit"
+          }
+        }
+      }
+    },
+    "不顯示大圖片（>30MP）警告" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't show large image (>30MP) warning"
+          }
+        }
+      }
+    },
+    "並發數" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concurrency"
+          }
+        }
+      }
+    },
+    "位數" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digits"
+          }
+        }
+      }
+    },
+    "位置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Position"
+          }
+        }
+      }
+    },
+    "保留失敗的項目" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep failed items"
+          }
+        }
+      }
+    },
+    "加在檔名前面" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add before filename"
+          }
+        }
+      }
+    },
+    "加在檔名後面（副檔名之前）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add after filename (before extension)"
+          }
+        }
+      }
+    },
+    "加入文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Text"
+          }
+        }
+      }
+    },
+    "動態 WebP 尚未支援，影片檔案將會處理失敗" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animated WebP is not yet supported. Video files will fail to process."
+          }
+        }
+      }
+    },
+    "取代文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace Text"
+          }
+        }
+      }
+    },
+    "取代文字（留空=刪除）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replacement text (leave empty to delete)"
+          }
+        }
+      }
+    },
+    "取代為" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace With"
+          }
+        }
+      }
+    },
+    "取消" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "品質" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quality"
+          }
+        }
+      }
+    },
+    "品質 100% 輸出檔案可能比原圖更大" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quality at 100% may produce files larger than the original"
+          }
+        }
+      }
+    },
+    "圖片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image"
+          }
+        }
+      }
+    },
+    "圖片壓縮" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image Compression"
+          }
+        }
+      }
+    },
+    "圖片壓縮 · 影片轉 GIF · 批次改名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image Compression · Video to GIF · Batch Rename"
+          }
+        }
+      }
+    },
+    "圖片設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image Settings"
+          }
+        }
+      }
+    },
+    "在 Finder 中顯示" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show in Finder"
+          }
+        }
+      }
+    },
+    "大圖片提示" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large Image Notice"
+          }
+        }
+      }
+    },
+    "大小" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        }
+      }
+    },
+    "字體" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font"
+          }
+        }
+      }
+    },
+    "字體大小" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font Size"
+          }
+        }
+      }
+    },
+    "完成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "完成後自動移除已處理的檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto-remove processed files when done"
+          }
+        }
+      }
+    },
+    "將重新命名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To Rename"
+          }
+        }
+      }
+    },
+    "將跳過" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To Skip"
+          }
+        }
+      }
+    },
+    "尚未加入檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Files Added"
+          }
+        }
+      }
+    },
+    "已取消" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelled"
+          }
+        }
+      }
+    },
+    "已完成 %lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed %lld / %lld"
+          }
+        }
+      }
+    },
+    "幀率" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frame Rate"
+          }
+        }
+      }
+    },
+    "底線 _" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Underscore _"
+          }
+        }
+      }
+    },
+    "後綴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suffix"
+          }
+        }
+      }
+    },
+    "復原" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        }
+      }
+    },
+    "復原所有變更" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo All Changes"
+          }
+        }
+      }
+    },
+    "快捷鍵" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcuts"
+          }
+        }
+      }
+    },
+    "成功" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Success"
+          }
+        }
+      }
+    },
+    "拖放任何檔案到這裡" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drop any files here"
+          }
+        }
+      }
+    },
+    "拖放圖片或影片到左側，或使用選單開啟檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag and drop images or videos to the left panel, or use the menu to open files"
+          }
+        }
+      }
+    },
+    "拖放圖片或影片到這裡" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drop images or videos here"
+          }
+        }
+      }
+    },
+    "拖放更多檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drop more files here"
+          }
+        }
+      }
+    },
+    "拖放檔案到左側，或使用選單開啟檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag and drop files to the left panel, or use the menu to open files"
+          }
+        }
+      }
+    },
+    "搜尋" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find"
+          }
+        }
+      }
+    },
+    "摘要" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summary"
+          }
+        }
+      }
+    },
+    "支援所有檔案類型" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All file types supported"
+          }
+        }
+      }
+    },
+    "效能設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Performance"
+          }
+        }
+      }
+    },
+    "新名稱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Name"
+          }
+        }
+      }
+    },
+    "時長" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duration"
+          }
+        }
+      }
+    },
+    "未改變" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unchanged"
+          }
+        }
+      }
+    },
+    "未知錯誤" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown error"
+          }
+        }
+      }
+    },
+    "未選擇" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Selected"
+          }
+        }
+      }
+    },
+    "格式" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format"
+          }
+        }
+      }
+    },
+    "格式化" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Format"
+          }
+        }
+      }
+    },
+    "標準" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regular"
+          }
+        }
+      }
+    },
+    "模式" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode"
+          }
+        }
+      }
+    },
+    "正在重新命名..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renaming..."
+          }
+        }
+      }
+    },
+    "無" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "無圖片可預覽" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No image to preview"
+          }
+        }
+      }
+    },
+    "無法寫入" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cannot Write"
+          }
+        }
+      }
+    },
+    "浮水印" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watermark"
+          }
+        }
+      }
+    },
+    "浮水印文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watermark text"
+          }
+        }
+      }
+    },
+    "浮水印設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watermark Settings"
+          }
+        }
+      }
+    },
+    "清除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear"
+          }
+        }
+      }
+    },
+    "清除所有檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear All Files"
+          }
+        }
+      }
+    },
+    "粗" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bold"
+          }
+        }
+      }
+    },
+    "粗細" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        }
+      }
+    },
+    "細" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "繼續轉換" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "與原始檔案相同" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same as source file"
+          }
+        }
+      }
+    },
+    "處理中..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processing..."
+          }
+        }
+      }
+    },
+    "處理完成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processing Complete"
+          }
+        }
+      }
+    },
+    "要尋找的文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text to find"
+          }
+        }
+      }
+    },
+    "解析度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resolution"
+          }
+        }
+      }
+    },
+    "設計開發：Jetalk" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Designed by Jetalk"
+          }
+        }
+      }
+    },
+    "請輸入前綴或後綴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a prefix or suffix"
+          }
+        }
+      }
+    },
+    "請輸入要搜尋的文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter text to search for"
+          }
+        }
+      }
+    },
+    "語言" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "記憶體" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memory"
+          }
+        }
+      }
+    },
+    "起始數字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Number"
+          }
+        }
+      }
+    },
+    "輸入新檔名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter new name"
+          }
+        }
+      }
+    },
+    "輸出格式" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output Format"
+          }
+        }
+      }
+    },
+    "輸出目錄沒有寫入權限，請選擇其他輸出路徑。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The output directory is not writable. Please choose a different output path."
+          }
+        }
+      }
+    },
+    "輸出目錄的可用空間可能不足，請清理磁碟或選擇其他輸出路徑。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The output directory may not have enough free space. Please free up disk space or choose a different output path."
+          }
+        }
+      }
+    },
+    "輸出路徑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output Path"
+          }
+        }
+      }
+    },
+    "輸出設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output Settings"
+          }
+        }
+      }
+    },
+    "透明度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opacity"
+          }
+        }
+      }
+    },
+    "連字號 -" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyphen -"
+          }
+        }
+      }
+    },
+    "選擇..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose..."
+          }
+        }
+      }
+    },
+    "選擇包含圖片或影片的資料夾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a folder containing images or videos"
+          }
+        }
+      }
+    },
+    "選擇包含要重新命名檔案的資料夾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a folder containing files to rename"
+          }
+        }
+      }
+    },
+    "選擇浮水印圖片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose watermark image"
+          }
+        }
+      }
+    },
+    "選擇要處理的圖片或影片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select images or videos to process"
+          }
+        }
+      }
+    },
+    "選擇要重新命名的檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select files to rename"
+          }
+        }
+      }
+    },
+    "選擇輸出資料夾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select output folder"
+          }
+        }
+      }
+    },
+    "選擇資料夾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Folder"
+          }
+        }
+      }
+    },
+    "選擇檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Files"
+          }
+        }
+      }
+    },
+    "邊距" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Margin"
+          }
+        }
+      }
+    },
+    "重新命名完成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renaming Complete"
+          }
+        }
+      }
+    },
+    "重新命名設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename Settings"
+          }
+        }
+      }
+    },
+    "間距" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spacing"
+          }
+        }
+      }
+    },
+    "關於 Jetiny" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Jetiny"
+          }
+        }
+      }
+    },
+    "關閉" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "陰影" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shadow"
+          }
+        }
+      }
+    },
+    "顏色" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color"
+          }
+        }
+      }
+    },
+    "高幀率 GIF 會產生超大檔案並佔用大量記憶體" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High frame rate GIFs produce very large files and consume significant memory"
+          }
+        }
+      }
+    },
+    "（名稱為空）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Empty name)"
+          }
+        }
+      }
+    },
+    "（跳過）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Skipped)"
+          }
+        }
+      }
+    },
+    "包含 EXIF 資訊" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contains EXIF data"
+          }
+        }
+      }
+    },
+    "像素數" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Megapixels"
+          }
+        }
+      }
+    },
+    "前綴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prefix"
+          }
+        }
+      }
+    },
+    "原圖" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original"
+          }
+        }
+      }
+    },
+    "原始名稱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original Name"
+          }
+        }
+      }
+    },
+    "名稱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "啟用文字陰影" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable text shadow"
+          }
+        }
+      }
+    },
+    "壓縮後" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compressed"
+          }
+        }
+      }
+    },
+    "失敗" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed"
+          }
+        }
+      }
+    },
+    "失敗 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed %lld"
+          }
+        }
+      }
+    },
+    "失敗項目：" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed items:"
+          }
+        }
+      }
+    },
+    "平鋪" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tile"
+          }
+        }
+      }
+    },
+    "影片設定" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video Settings"
+          }
+        }
+      }
+    },
+    "文字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text"
+          }
+        }
+      }
+    },
+    "旋轉" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rotation"
+          }
+        }
+      }
+    },
+    "最大寬度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max Width"
+          }
+        }
+      }
+    },
+    "有 %lld 個影片超過 30 秒，轉換為 GIF 可能產生非常大的檔案。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld video(s) are longer than 30 seconds. Converting to GIF may produce very large files."
+          }
+        }
+      }
+    },
+    "有 %lld 張圖片超過 3000 萬像素（最大 %@MP），建議先調整解析度以節省記憶體和加速處理。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld image(s) exceed 30 megapixels (max %@ MP). Consider resizing to save memory and speed up processing."
+          }
+        }
+      }
+    },
+    "檔名含有非法字元（/ 或 :）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filename contains illegal characters (/ or :)"
+          }
+        }
+      }
+    },
+    "檔名超過 255 bytes 上限（%lld bytes）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filename exceeds 255-byte limit (%lld bytes)"
+          }
+        }
+      }
+    },
+    "檔案名稱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Name"
+          }
+        }
+      }
+    },
+    "檔案大小" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Size"
+          }
+        }
+      }
+    },
+    "檔案數" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Count"
+          }
+        }
+      }
+    },
+    "檔案資訊" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Info"
+          }
+        }
+      }
+    },
+    "檔案總數" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Files"
+          }
+        }
+      }
+    },
+    "知道了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "磁碟上已存在同名檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A file with this name already exists on disk"
+          }
+        }
+      }
+    },
+    "磁碟空間不足" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insufficient Disk Space"
+          }
+        }
+      }
+    },
+    "移除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "移除 EXIF 資訊（GPS、裝置等）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove EXIF data (GPS, device info, etc.)"
+          }
+        }
+      }
+    },
+    "空格" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        }
+      }
+    },
+    "確認重新命名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Rename"
+          }
+        }
+      }
+    },
+    "即將重新命名 %lld 個檔案，此操作執行後可使用「復原」按鈕還原。確定要繼續嗎？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About to rename %lld file(s). You can use the \"Undo\" button to revert after the operation. Continue?"
+          }
+        }
+      }
+    },
+    "預覽" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        }
+      }
+    },
+    "預覽對比" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview Comparison"
+          }
+        }
+      }
+    },
+    "加入檔案後顯示預覽" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add files to show preview"
+          }
+        }
+      }
+    },
+    "區分大小寫" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Case Sensitive"
+          }
+        }
+      }
+    },
+    "或使用選單 檔案 → 開啟檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Or use File menu → Open Files"
+          }
+        }
+      }
+    },
+    "批次修改檔名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batch Rename"
+          }
+        }
+      }
+    },
+    "分隔符" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Separator"
+          }
+        }
+      }
+    },
+    "刪除選取的檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Selected Files"
+          }
+        }
+      }
+    },
+    "重複鋪滿整張圖片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repeat across entire image"
+          }
+        }
+      }
+    },
+    "自動" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        }
+      }
+    },
+    "自動 (%lld MB)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto (%lld MB)"
+          }
+        }
+      }
+    },
+    "調整設定後顯示" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjust settings to preview"
+          }
+        }
+      }
+    },
+    "長影片提示" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long Video Notice"
+          }
+        }
+      }
+    },
+    "開始重新命名" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Renaming"
+          }
+        }
+      }
+    },
+    "開始轉換" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        }
+      }
+    },
+    "開啟檔案" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Files"
+          }
+        }
+      }
+    },
+    "開啟檔案..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Files..."
+          }
+        }
+      }
+    },
+    "開啟資料夾" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Folder"
+          }
+        }
+      }
+    },
+    "開啟資料夾..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Folder..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

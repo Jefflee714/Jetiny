@@ -1,0 +1,44 @@
+name: Jetiny
+options:
+  bundleIdPrefix: com.jetiny
+  developmentLanguage: zh-Hant
+  deploymentTarget:
+    macOS: "14.0"
+  xcodeVersion: "16.0"
+  generateEmptyDirectories: true
+
+packages:
+  Swift-WebP:
+    url: https://github.com/ainame/Swift-WebP
+    from: "0.6.0"
+
+targets:
+  Jetiny:
+    type: application
+    platform: macOS
+    sources:
+      - Jetiny
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.jetiny.app
+        PRODUCT_NAME: Jetiny
+        MARKETING_VERSION: "1.0.2"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "5.9"
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        CODE_SIGN_IDENTITY: "-"
+        CODE_SIGN_STYLE: Manual
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_LSApplicationCategoryType: "public.app-category.graphics-design"
+      configs:
+        Debug:
+          CODE_SIGN_ENTITLEMENTS: Jetiny/Jetiny.entitlements
+        Release:
+          CODE_SIGN_ENTITLEMENTS: Jetiny/Jetiny.entitlements
+    dependencies:
+      - package: Swift-WebP
+        product: WebP
+    entitlements:
+      path: Jetiny/Jetiny.entitlements
+      properties:
+        com.apple.security.app-sandbox: false
